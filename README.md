@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-en-yellow)](README.en.md)
+
 # ABAPFuck - Ein Brainfuck Interpreter für ABAP
 
 ## Installation
