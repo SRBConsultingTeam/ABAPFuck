@@ -1,3 +1,5 @@
+![ABAP 7.54](https://img.shields.io/badge/ABAP-7.54-brightgreen)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![de](https://img.shields.io/badge/lang-de-green)](README.md)
 
 # ABAPFuck - Brainfuck Interpreter for ABAP
