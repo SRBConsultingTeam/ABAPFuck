@@ -1,8 +1,12 @@
-![ABAP 7.54](https://img.shields.io/badge/ABAP-7.54-brightgreen)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![en](https://img.shields.io/badge/lang-en-yellow)](README.en.md)
-
 # ABAPFuck - Ein Brainfuck Interpreter für ABAP
+
+[![srb.at](assets/srb_logo.png)](https://www.srb.at)
+
+[![Blog](https://img.shields.io/static/v1.svg?color=f5d410&labelColor=11215a&logoColor=ffffff&style=for-the-badge&label=srb.at&message=Blog)](https://www.srb.at/blog--events/)
+[![GitHub](https://img.shields.io/static/v1.svg?color=f5d410&labelColor=11215a&logoColor=ffffff&style=for-the-badge&label=srb.at&message=github&logo=github)](https://github.com/SRBConsultingTeam/)
+[![License](https://img.shields.io/static/v1.svg?color=f5d410&labelColor=11215a&logoColor=ffffff&style=for-the-badge&label=License&message=MIT)](LICENSE)
+![ABAP](https://img.shields.io/static/v1.svg?color=f5d410&labelColor=11215a&logoColor=ffffff&style=for-the-badge&label=ABAP&message=7.54)
+[![README.en.md](https://img.shields.io/static/v1.svg?color=f5d410&labelColor=11215a&logoColor=ffffff&style=for-the-badge&label=Readme&message=en)](README.en.md)
 
 ## Installation
 Der Interpreter kann wie folgt im System importiert werden:
